@@ -15,6 +15,10 @@ public class ClassD {
         System.out.println("methodd1");
     }
 
+    public void methodd3() {
+        System.out.println("mehodd3");
+    }
+
     public static void main(String[] args) {
 
         ClassC esha = new ClassC();

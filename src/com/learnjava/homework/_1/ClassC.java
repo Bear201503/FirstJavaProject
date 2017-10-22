@@ -13,6 +13,9 @@ public class ClassC {
     public void methodc1() {
         System.out.println("methodc1");
     }
+    public void methodc3() {
+        System.out.println("methodc3");
+    }
 
     public static void main(String[] args) {
         ClassD esha = new ClassD();
